@@ -1,0 +1,12 @@
+.sideBar{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    min-width: 200px;
+    background-color: rgba(18, 100, 100, 0.322);
+    &__list{
+        list-style-type: none;
+    }
+    grid-area: s;
+}
+

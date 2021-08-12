@@ -1,0 +1,10 @@
+.wrapper{
+  display: grid;
+  grid-template-areas: "h h" "s c";
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 80px 1fr;
+}
+
+.content{
+    grid-area: c;
+}

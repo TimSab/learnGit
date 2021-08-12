@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    background-color: #000;
+    position: sticky;
+    height: 80px;
+    grid-area: h;
+    color:#fff;
+}
+
+.content{
+    max-width: 1180px;
+}
+
+.menu__list{
+    display: flex;
+}
