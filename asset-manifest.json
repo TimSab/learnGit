@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learnGit/static/css/main.fa9f0567.chunk.css",
+    "main.js": "/learnGit/static/js/main.185bcb55.chunk.js",
+    "main.js.map": "/learnGit/static/js/main.185bcb55.chunk.js.map",
+    "runtime-main.js": "/learnGit/static/js/runtime-main.08e9989d.js",
+    "runtime-main.js.map": "/learnGit/static/js/runtime-main.08e9989d.js.map",
+    "static/js/2.c6dced60.chunk.js": "/learnGit/static/js/2.c6dced60.chunk.js",
+    "static/js/2.c6dced60.chunk.js.map": "/learnGit/static/js/2.c6dced60.chunk.js.map",
+    "static/js/3.bfc9a827.chunk.js": "/learnGit/static/js/3.bfc9a827.chunk.js",
+    "static/js/3.bfc9a827.chunk.js.map": "/learnGit/static/js/3.bfc9a827.chunk.js.map",
+    "index.html": "/learnGit/index.html",
+    "static/css/main.fa9f0567.chunk.css.map": "/learnGit/static/css/main.fa9f0567.chunk.css.map",
+    "static/js/2.c6dced60.chunk.js.LICENSE.txt": "/learnGit/static/js/2.c6dced60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08e9989d.js",
+    "static/js/2.c6dced60.chunk.js",
+    "static/css/main.fa9f0567.chunk.css",
+    "static/js/main.185bcb55.chunk.js"
+  ]
+}
